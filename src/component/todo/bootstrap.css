@@ -1,0 +1,16 @@
+.footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background: #222222;
+    text-align: center;
+}
+
+.div {
+    text-align: center;
+}
+
+.btn {
+    margin-top: 10px;
+    padding-top: 5px;
+}
